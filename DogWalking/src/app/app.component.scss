@@ -1,0 +1,22 @@
+#main-container {
+    
+    background-color: tomato;
+}
+
+
+
+
+
+
+
+/*********
+MEDIA QUERIES
+************/
+
+@media (min-width: 769px) {
+    .container {
+        width: 70%;
+        max-width: 1000px;
+        margin: 0 auto;
+    }
+}
